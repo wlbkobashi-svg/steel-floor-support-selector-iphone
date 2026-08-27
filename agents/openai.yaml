@@ -1,0 +1,4 @@
+interface:
+  display_name: "鋼製床 支持台・ボルト選定"
+  short_description: "桐井GTフロアーの支持台とボルト組を高さ範囲から選定"
+  default_prompt: "Use $steel-floor-support-selector to select the KIRII GT Floor stand and bolt assembly for my height range."
