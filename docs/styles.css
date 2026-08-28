@@ -1,5 +1,6 @@
 
 #thickness .three{grid-template-columns:repeat(3,minmax(0,1fr))}
+.form-card .row>label+label{margin-top:0}
 #thickness .three label{display:grid;grid-template-rows:18px 50px;gap:7px;min-width:0}
 #thickness .three .field-name{position:static;display:block;right:auto;bottom:auto;line-height:18px;font-size:12px;text-align:left;color:#4d5b68}
 #thickness .three .input-unit{position:relative;display:block;right:auto;bottom:auto;min-width:0}
